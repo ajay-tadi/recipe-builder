@@ -1,0 +1,1059 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Creamy Garlic Parmesan Pasta",
+      "description": "Creamy pasta with garlic, Parmesan, and parsley.",
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 20,
+      "tags": [
+        "Italian",
+        "Vegetarian",
+        "Quick"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Pasta",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Butter",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i3",
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves"
+        },
+        {
+          "id": "i4",
+          "name": "Cream",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "id": "i5",
+          "name": "Parmesan",
+          "quantity": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Cook pasta in salted water and reserve a little pasta water."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Sauté minced garlic in butter until fragrant."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Add cream and Parmesan; simmer until thickened."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Toss pasta with sauce and finish with parsley."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "2",
+      "title": "Classic Fluffy Pancakes",
+      "description": "Golden, fluffy pancakes for a weekend breakfast.",
+      "servings": 4,
+      "prepTime": 10,
+      "cookTime": 15,
+      "tags": [
+        "Breakfast",
+        "Vegetarian",
+        "Quick"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Flour",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Milk",
+          "quantity": 250,
+          "unit": "ml"
+        },
+        {
+          "id": "i3",
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "id": "i4",
+          "name": "Baking powder",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "id": "i5",
+          "name": "Sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Whisk flour, baking powder, sugar, and salt."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Whisk milk and eggs in a separate bowl."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Combine wet and dry ingredients without overmixing."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Cook portions on a greased skillet until golden on both sides."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "3",
+      "title": "Roasted Tomato Soup",
+      "description": "Comforting soup made with oven-roasted tomatoes.",
+      "servings": 4,
+      "prepTime": 15,
+      "cookTime": 40,
+      "tags": [
+        "Soup",
+        "Vegetarian",
+        "Comfort Food"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Tomatoes",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Red onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "id": "i3",
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "id": "i4",
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i5",
+          "name": "Vegetable stock",
+          "quantity": 500,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Heat oven to 200°C and arrange tomatoes, onion, and garlic on a tray."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Drizzle with oil and roast for 30 minutes."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Simmer roasted vegetables with stock for 10 minutes."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Blend until smooth and season to taste."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "4",
+      "title": "Lemon Herb Grilled Chicken",
+      "description": "Juicy chicken with lemon, garlic, and herbs.",
+      "servings": 4,
+      "prepTime": 15,
+      "cookTime": 18,
+      "tags": [
+        "Dinner",
+        "High Protein",
+        "Gluten Free"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Chicken breast",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Lemon juice",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i3",
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i4",
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves"
+        },
+        {
+          "id": "i5",
+          "name": "Oregano",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Mix lemon juice, oil, garlic, oregano, salt, and pepper."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Coat chicken in marinade for at least 15 minutes."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Grill 6–9 minutes per side, depending on thickness."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Ensure the centre reaches 74°C, then rest before slicing."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "5",
+      "title": "Avocado Chickpea Salad",
+      "description": "Fresh salad with chickpeas, avocado, and lemon dressing.",
+      "servings": 2,
+      "prepTime": 15,
+      "cookTime": 0,
+      "tags": [
+        "Salad",
+        "Vegan",
+        "No Cook"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Chickpeas, drained",
+          "quantity": 240,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Avocado",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "id": "i3",
+          "name": "Cucumber",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "id": "i4",
+          "name": "Cherry tomatoes",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "id": "i5",
+          "name": "Lemon juice",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Rinse and drain chickpeas; chop the vegetables."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Whisk lemon juice, olive oil, salt, and pepper."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Toss everything gently and serve immediately."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "6",
+      "title": "Vegetable Fried Rice",
+      "description": "Quick fried rice with colourful vegetables and soy sauce.",
+      "servings": 3,
+      "prepTime": 15,
+      "cookTime": 12,
+      "tags": [
+        "Asian",
+        "Vegan",
+        "Quick"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Cooked rice",
+          "quantity": 450,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Carrot",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "id": "i3",
+          "name": "Frozen peas",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "i4",
+          "name": "Spring onions",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "id": "i5",
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Prepare vegetables and break up cold rice."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Stir-fry carrot and peas in a hot wok."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Add rice and stir-fry until hot throughout."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Season with soy sauce and garnish with spring onions."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "7",
+      "title": "Banana Oat Muffins",
+      "description": "Tender muffins sweetened with ripe bananas.",
+      "servings": 12,
+      "prepTime": 12,
+      "cookTime": 22,
+      "tags": [
+        "Baking",
+        "Breakfast",
+        "Vegetarian"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Ripe bananas",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "id": "i2",
+          "name": "Rolled oats",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "id": "i3",
+          "name": "Flour",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "id": "i4",
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "id": "i5",
+          "name": "Milk",
+          "quantity": 80,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Heat oven to 180°C and line a muffin tin."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Mash bananas and whisk with eggs and milk."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Fold in oats, flour, and baking powder."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Bake for 18–22 minutes until cooked through."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "8",
+      "title": "Coconut Lentil Curry",
+      "description": "Plant-based curry with red lentils and coconut milk.",
+      "servings": 4,
+      "prepTime": 10,
+      "cookTime": 30,
+      "tags": [
+        "Indian",
+        "Vegan",
+        "Dinner"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Red lentils",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Coconut milk",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "id": "i3",
+          "name": "Vegetable stock",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "id": "i4",
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "id": "i5",
+          "name": "Spinach",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Sauté diced onion until soft."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Add curry powder and stir until fragrant."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Add lentils, coconut milk, and stock; simmer until tender."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Fold in spinach and serve warm."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "9",
+      "title": "Chocolate Mug Cake",
+      "description": "A quick chocolate cake made in a mug.",
+      "servings": 1,
+      "prepTime": 5,
+      "cookTime": 2,
+      "tags": [
+        "Dessert",
+        "Vegetarian",
+        "Quick"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Flour",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i2",
+          "name": "Cocoa powder",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i3",
+          "name": "Sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i4",
+          "name": "Milk",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i5",
+          "name": "Chocolate chips",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Mix flour, cocoa, and sugar in a microwave-safe mug."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Stir in milk and oil until smooth."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Fold in chocolate chips and microwave for 60–90 seconds."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Cool briefly before eating."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "10",
+      "title": "Greek Yogurt Berry Bowl",
+      "description": "Yogurt topped with berries, granola, and honey.",
+      "servings": 2,
+      "prepTime": 8,
+      "cookTime": 0,
+      "tags": [
+        "Breakfast",
+        "Vegetarian",
+        "No Cook"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Greek yogurt",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Mixed berries",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": "i3",
+          "name": "Granola",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "id": "i4",
+          "name": "Honey",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "id": "i5",
+          "name": "Chia seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Divide yogurt between two bowls."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Top with berries, granola, and chia seeds."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Drizzle with honey and serve."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "11",
+      "title": "Crispy Oven Potato Wedges",
+      "description": "Seasoned wedges with crisp edges and fluffy centres.",
+      "servings": 4,
+      "prepTime": 10,
+      "cookTime": 35,
+      "tags": [
+        "Side Dish",
+        "Vegetarian",
+        "Gluten Free"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Potatoes",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i3",
+          "name": "Paprika",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "id": "i4",
+          "name": "Garlic powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "id": "i5",
+          "name": "Rosemary",
+          "quantity": 0.5,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Heat oven to 220°C."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Cut potatoes into wedges and pat dry."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Toss with oil and seasonings."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Bake 30–35 minutes, turning halfway."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "12",
+      "title": "Apple Cinnamon Overnight Oats",
+      "description": "Make-ahead oats with apple, cinnamon, and yogurt.",
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 0,
+      "tags": [
+        "Breakfast",
+        "Vegetarian",
+        "Meal Prep"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Rolled oats",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Milk",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "i3",
+          "name": "Greek yogurt",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "i4",
+          "name": "Apple",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "id": "i5",
+          "name": "Cinnamon",
+          "quantity": 0.5,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Combine oats, milk, yogurt, cinnamon, and syrup."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Grate or dice apple and stir it in."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Cover and refrigerate for at least four hours or overnight."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "13",
+      "title": "Garlic Butter Shrimp",
+      "description": "Shrimp sautéed in garlic butter with lemon and parsley.",
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 8,
+      "tags": [
+        "Seafood",
+        "Dinner",
+        "Quick"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Peeled shrimp",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Butter",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i3",
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "id": "i4",
+          "name": "Lemon juice",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "id": "i5",
+          "name": "Parsley",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Pat shrimp dry and season lightly."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Melt butter and sauté minced garlic briefly."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Cook shrimp until opaque and cooked through."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Finish with lemon juice and parsley."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1a3d54e7?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "14",
+      "title": "Pizza Margherita",
+      "description": "Classic pizza with tomato, mozzarella, and basil.",
+      "servings": 2,
+      "prepTime": 20,
+      "cookTime": 12,
+      "tags": [
+        "Italian",
+        "Vegetarian",
+        "Dinner"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Pizza dough",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Passata",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "i3",
+          "name": "Mozzarella",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "id": "i4",
+          "name": "Fresh basil",
+          "quantity": 8,
+          "unit": "leaves"
+        },
+        {
+          "id": "i5",
+          "name": "Olive oil",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Heat oven to 240–250°C if possible."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Stretch dough into a thin round."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Spread passata and add mozzarella."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Bake until crust is browned; finish with basil and oil."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "15",
+      "title": "Carrot Ginger Soup",
+      "description": "Silky carrot soup with ginger and warming spices.",
+      "servings": 4,
+      "prepTime": 15,
+      "cookTime": 30,
+      "tags": [
+        "Soup",
+        "Vegan",
+        "Gluten Free"
+      ],
+      "status": "published",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Carrots",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "id": "i2",
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "id": "i3",
+          "name": "Fresh ginger",
+          "quantity": 20,
+          "unit": "g"
+        },
+        {
+          "id": "i4",
+          "name": "Vegetable stock",
+          "quantity": 700,
+          "unit": "ml"
+        },
+        {
+          "id": "i5",
+          "name": "Olive oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Sauté diced onion in olive oil until soft."
+        },
+        {
+          "id": "s2",
+          "order": 2,
+          "instruction": "Add grated ginger and cumin."
+        },
+        {
+          "id": "s3",
+          "order": 3,
+          "instruction": "Add carrots and stock; simmer until carrots are tender."
+        },
+        {
+          "id": "s4",
+          "order": 4,
+          "instruction": "Blend until smooth and season to taste."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": "16",
+      "title": "Sunday Garden Frittata",
+      "description": "A draft to test the save-draft workflow.",
+      "servings": 4,
+      "prepTime": 10,
+      "cookTime": 15,
+      "tags": [
+        "Breakfast",
+        "Draft"
+      ],
+      "status": "draft",
+      "ingredients": [
+        {
+          "id": "i1",
+          "name": "Eggs",
+          "quantity": 6,
+          "unit": ""
+        },
+        {
+          "id": "i2",
+          "name": "Spinach",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "id": "s1",
+          "order": 1,
+          "instruction": "Whisk eggs and prepare the vegetables."
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1200&q=85"
+    }
+  ]
+}
